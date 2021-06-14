@@ -8,7 +8,7 @@ import net.minecraft.util.registry.Registry;
 
 public class ModItems {
 	
-	public static final Item SPECIAL_EGG = new Item(new Item.Settings().group(ItemGroup.FOOD));
+	public static final SpecialEgg SPECIAL_EGG = new SpecialEgg(new Item.Settings().group(ItemGroup.FOOD).maxCount(16));
 	
 	public static void registerItems() {
 		Registry.register(Registry.ITEM, new Identifier(EggExampleMod.MOD_ID, "special_egg"), SPECIAL_EGG);
