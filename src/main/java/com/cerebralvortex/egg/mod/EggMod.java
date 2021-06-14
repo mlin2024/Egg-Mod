@@ -1,9 +1,10 @@
-package com.cerebralvortex.egg.example.mod;
+package com.cerebralvortex.egg.mod;
 
-import com.cerebralvortex.egg.example.mod.registry.ModItems;
+import com.cerebralvortex.egg.mod.registry.ModItems;
+
 import net.fabricmc.api.ModInitializer;
 
-public class EggExampleMod implements ModInitializer{
+public class EggMod implements ModInitializer{
 
 	public static final String MOD_ID = "egg";
 	

@@ -1,4 +1,4 @@
-package com.cerebralvortex.egg.example.mod.registry;
+package com.cerebralvortex.egg.mod.registry;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;

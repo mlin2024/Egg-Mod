@@ -3,7 +3,7 @@
   "id": "egg",
   "version": "1.0.0",
 
-  "name": "Egg Example Mod",
+  "name": "Egg Mod",
   "description": "My first mod, let's see how this goes",
   "authors": [
     "CerebralVortex"
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.cerebralvortex.egg.example.mod.EggExampleMod"
+      "com.cerebralvortex.egg.mod.EggMod"
     ]
   },
   "mixins": [
