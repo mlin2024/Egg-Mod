@@ -11,10 +11,10 @@ import net.minecraft.util.registry.Registry;
 public class ModItems {
 	
 	// Items
-	public static final SpecialEgg SPECIAL_EGG = new SpecialEgg(new Item.Settings().group(ItemGroup.FOOD).maxCount(16));
+	public static final SpecialEgg SPECIAL_EGG = new SpecialEgg(new Item.Settings().group(EggMod.EGG_ITEMS).maxCount(16));
 	
 	// Blocks
-	public static final BlockItem EGG_BLOCK = new BlockItem(ModBlocks.EGG_BLOCK, new Item.Settings().group(ItemGroup.MISC));
+	public static final BlockItem EGG_BLOCK = new BlockItem(ModBlocks.EGG_BLOCK, new Item.Settings().group(EggMod.EGG_ITEMS));
 	
 	public static void registerItems() {
 		Registry.register(Registry.ITEM, new Identifier(EggMod.MOD_ID, "special_egg"), SPECIAL_EGG);
