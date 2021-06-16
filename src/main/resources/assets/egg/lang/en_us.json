@@ -1,5 +1,6 @@
 {
 	"item.egg.special_egg":		"Special Egg",
 	"block.egg.egg_block":		"Egg Block",
-	"itemGroup.egg.egg_items": 	"Egg Items"
+	"itemGroup.egg.egg_items": 	"Egg Items",
+	"item.egg.egg_pickaxe":		"Egg Pickaxe"
 }
