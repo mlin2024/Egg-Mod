@@ -2,5 +2,9 @@
 	"item.egg.special_egg":		"Special Egg",
 	"block.egg.egg_block":		"Egg Block",
 	"itemGroup.egg.egg_items": 	"Egg Items",
-	"item.egg.egg_pickaxe":		"Egg Pickaxe"
+	"item.egg.egg_pickaxe":		"Egg Pickaxe",
+	"item.egg.egg_axe":			"Egg Axe",
+	"item.egg.egg_sword":		"Egg Sword",
+	"item.egg.egg_hoe":			"Egg Hoe",
+	"item.egg.egg_shovel":		"Egg Shovel"
 }

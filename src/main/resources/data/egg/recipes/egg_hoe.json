@@ -1,9 +1,9 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
-        " / ",
-        " / "
+        "##",
+        "/ ",
+        "/ "
     ],
     "key": {
         "#": {
@@ -14,7 +14,7 @@
         }
     },
     "result": {
-        "item": "egg:egg_pickaxe",
+        "item": "egg:egg_hoe",
         "count": 1
     }
 }
