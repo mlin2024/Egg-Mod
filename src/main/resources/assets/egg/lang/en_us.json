@@ -6,5 +6,7 @@
 	"item.egg.egg_axe":			"Egg Axe",
 	"item.egg.egg_sword":		"Egg Sword",
 	"item.egg.egg_hoe":			"Egg Hoe",
-	"item.egg.egg_shovel":		"Egg Shovel"
+	"item.egg.egg_shovel":		"Egg Shovel",
+	"item.egg.yolk_bucket":     "Yolk Bucket",
+	"block.egg.yolk":     		"Yolk"
 }
