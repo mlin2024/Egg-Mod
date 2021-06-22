@@ -1,0 +1,8 @@
+    {
+    	"replace": false,
+    	"values":
+    	[
+    		"egg:yolk_flow",
+    		"egg:yolk_still"
+    	]
+    }
